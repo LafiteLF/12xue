@@ -1,5 +1,6 @@
 # 12xue 开源项目
 本仓库为 12xue 相关程序的官方开源源代码，**仅用于学习、研究及合规场景下的二次开发**。
+main分支为12学客户端源代码，master则是一个可以修改的代码，本代码使用[apktool](https://github.com/iBotPeaches/Apktool)
 
 ## 项目说明
 - 代码归属：12xue 官方授权开源
@@ -35,5 +36,5 @@
 5. 发起 Pull Request
 
 ## 联系方式
-- 仓库维护者：LafiteL
+- 仓库维护者：LafiteLF
 - 问题反馈：通过 GitHub Issues 提交
